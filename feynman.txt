@@ -1,0 +1,5 @@
+Objects
+Properties
+Methods
+for in loop
+dot notation vs bracket notation
