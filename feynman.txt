@@ -1,5 +1,6 @@
-Objects
-Properties
-Methods
-for in loop
-dot notation vs bracket notation
+Objects - A collection of keys and their values
+Properties - The values associated with the keys in an object
+Methods - A function defined within an object
+for in loop - For each of the keys In an object, execute the following code
+dot notation vs bracket notation - Dot notation accesses the specific key of the object. Bracket notation allows access
+    to properties that use special characters
